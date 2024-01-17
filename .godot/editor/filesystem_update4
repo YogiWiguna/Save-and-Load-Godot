@@ -1,0 +1,5 @@
+res://main.tscn
+res://scenes/main.tscn
+res://scenes/Main/main.tscn
+res://scenes/Main/main.gd
+res://Resource/player_data.gd
